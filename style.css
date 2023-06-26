@@ -505,13 +505,13 @@ list-style: circle;
     list-style-type: none;
 }
 .h-kalender{
-    background-color: #dc02ff;
+    color: #dc02ff;
     font-size: 250%;
     width: max-content;
     position: relative;
     left: 70%;
     top: 10%;
-    border: #dc02ff solid 3px;
+    
 }
 .kalender-eintrag{
     color: black;
