@@ -71,6 +71,7 @@ header a{
     position: relative;
 }
 .balken{
+    width: 100%;
     border: solid 40px;
     border-color: #dc02ff;
     border-right: none;
@@ -516,17 +517,16 @@ list-style: circle;
 .kalender-eintrag{
     color: black;
     list-style: none;
-    border:white solid 3px;
     background-color: white;
-    font-size: 120%;
+    font-size: 160%;
     width: max-content;
-    position: relative;
-    top:25%;
-    left: 70%;
-    padding-left: 0%;
+    position: absolute;
+    top:27%;
+    right: 10%;
+    padding-left: 1%;
     padding-right: 10%;
     padding-top: 1%;
-    padding-bottom: 23%;
+    padding-bottom: 4%;
 }
 
 
